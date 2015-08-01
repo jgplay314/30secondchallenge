@@ -235,7 +235,7 @@ Challenge.prototype = {
 		this.moves = moves;
 		this.result = n;
 		this.time = new Date();
-		this.time_remaining = this.time_available = 30;
+		this.time_remaining = this.time_available = 300;
 	},
 
 	make_html: function() {

@@ -1,3 +1,5 @@
+Note: this version is an attempt to make a practice version that doesn't have a time limit
+
 Inspired by the puzzle that my wife's grandma tests me with each time I visit.
 
 Start with the number in the first box and follow the instructions until you get to the end. Enter your answer and press enter (or click on the timer).
